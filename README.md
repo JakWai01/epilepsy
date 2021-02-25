@@ -6,20 +6,16 @@ Reverse egineering epilepsy
 
 | Term           | Description  |
 | :------------- | :----------: |
-| TODO           | TODO         |
-
-### Terms to add
-- neuronal activity
-- cortex of the brain
-- epileptogenesis
-- neurostimulation 
-- ion channels
+| Cerebral cortex | The Cerebral Cortex is made up of tightly packed neurons and is the wrinkly, outermost layer that surrounds the brain |
+| Epileptogenesis | The gradual process by which a normal brain develops epilepsy | 
+| Neurostimulation | Stimulation is applied to specific cortical or subcortical targets | 
+| Ion channels | Ion channels are specialized proteins in the plasma membrane that provide a passageway through which charged ions can cross the plasma membrane down their electrochemical gradient | 
 
 ## 📚 Resources
 
 - https://en.wikipedia.org/wiki/Epilepsy
 
-## Notes 
+## 📔 Notes 
 
 ### Intro 
 - Group of neurological disorders characterized by recurrent epileptic seizures
