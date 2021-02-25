@@ -50,3 +50,14 @@ Reverse egineering epilepsy
 
 #### Aquired 
 - Epilepsy may occur as a result of a number of other conditions including tumors, strokes, head trauma, previous infections of the central nervous system, genetic abnormalities and as a result of brain damage around the time of birth.
+
+### Mechanism
+- Normally brain electrical activity  is non-synchronous, as neurons do not normally fire in sync with each other, but rather fire in order as signals travel through the brain. Its activity is regulated by various factors both within the neuron and the cellular environment. Factors withing the neuron include the type, number and distribution of ion channels, changes to receptors and changes of gene expression. Factors around the neuron include ion concentrations, synaptic plasticity and regulation of transmitter breakdown by glial cells. Chronic inflammation also appears to play a role.
+
+#### Epilepsy 
+- The exact mechanism of epilepsy is unknown, but a little is known about its cellular and network mechanisms. However, it is unknown under which circumstances the brain shifts into the activity of a seizure with its excessive synchronisation
+- In epilepsy the resistance of excitatory neurons to fire during this period is decreased. This may occur due to changes in ion channels or inhibitory neurons not functioning properly. This then results in a specific area from which seizures may develop epileptogenesis. Failure of the blood-brain barrier may also be a casual mechanism as it would allow substances to in the blood to enter the brain
+
+#### Seizures
+- There is evidence that epileptic seizures are usually not a random event. Seizures are often brought on by factors such as stress, alcohol abuse, flickering light or a lack of sleep, among others. 
+- In epileptic seizures the group of neurons begin firing in abnormal excessive and synchronized manner. This results in a wave of depolarization known as paroxysmal depolarisation shift. Normally, after an excitatory neuron fires it becomes more resistant to firing for a period of time. This is due in part to the effect of inhibitory neurons, electrical changes within the excitatory neuron and the negative effects of adenosine.
