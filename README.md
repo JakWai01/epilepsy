@@ -13,11 +13,11 @@ Reverse egineering epilepsy
 - cortex of the brain
 - epileptogenesis
 - neurostimulation 
+- ion channels
 
 ## 📚 Resources
 
-TODO
-
+- https://en.wikipedia.org/wiki/Epilepsy
 
 ## Notes 
 
@@ -37,3 +37,16 @@ TODO
 - **Tonic-clonic seizures** occur with a contraction of the limbs followed by an extension along with arching of the back which lasts 10-30 seconds (the tonic phase). A cry may be heard due to contraction of the chest muscles, followed by a shaking of the limbs in unison (clonic phase). **Tonic seizures** produce constant contractions of the muscles. After the shaking has stopped it may take 10-30 minutes for the person to return back to normal; this period is called the **postictal phase**
 - **Myonic seizures** involve spasms of muscles in either a few areas or all over. **Absence seizures** can be subtle with only  a slight turn of the head or eye blinking. **Atonic seizures** involve the loss of muscle activity for greater than one second.
 - About 6% of those with epilepsy have seizures that are often triggered by specific events and are known as reflex seizures. Those with reflex epilepsy have seizures that are only triggered by specific stimuli. Common triggers include flashing lights and sudden noises. In certain types of epilepsy, seizures happen more often during sleep and in other types they occur almost only when sleeping. (Are epileptic seizures related to dreams in some way?) 
+
+### Post-ictal
+- After the active portion of a seizure (the ictal state) there is typically a period of recovery during which there is confusion, referred to as the postictal period before the normal level of consciousness returns. Often people do not remember what happened in the post-ictal state.
+
+### Psychosocial
+- Certain disorders occur more often in people with epilepsy, depending partly on the epilepsy syndrom present. These include depression, anxiety, obssesive-compulsive disorder and migraine.
+
+### Causes
+#### Genetics 
+- Some epilepsies are due to a single gene defect (1-2%); most are due to the interaction of multiple genes and environmental factors. Each of the single gene defects is rare, with more than 200 in all described. Most genes involved affect ion channels, either directly or indirectly. 
+
+#### Aquired 
+- Epilepsy may occur as a result of a number of other conditions including tumors, strokes, head trauma, previous infections of the central nervous system, genetic abnormalities and as a result of brain damage around the time of birth.
